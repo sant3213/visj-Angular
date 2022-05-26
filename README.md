@@ -1,4 +1,6 @@
-"# visj-Angular" 
+## **visj-Angular"**
+
+
 ### **Visjs Installation**
 
 1. npm i vis-timeline
